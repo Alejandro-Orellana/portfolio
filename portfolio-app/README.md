@@ -1,4 +1,4 @@
-# React Bricks starter with Next.js with Tailwind CSS and React Bricks UI
+# Creating your portfolio using React Bricks, Next.js, Tailwind CSS.
 
 Kick-start your project with this boilerplate for a complete Next.js website based on [React Bricks](https://reactbricks.com), with both the front-end and admin dashboard.
 
